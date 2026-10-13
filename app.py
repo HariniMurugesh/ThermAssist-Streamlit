@@ -360,7 +360,7 @@ with st.expander("What is Scruton Number?"):
 "\n-Reduced Resonance Risk\n"
 "\n-Improved thermowell reliability."
  )
-st.header("What-If Analysys")
+st.header("What-If Analysis")
 option=st.selectbox(
     "Select Design Change",
     [
